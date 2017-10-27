@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoAndroidPermission</string>
+    <string name="check_normal_permission">Comprobar permiso normal</string>
+    <string name="check_dangerous_permission">Comprobar permiso peligroso</string>
+    <string name="internet_permission_granted">Tienes permiso de Internet</string>
+    <string name="internet_permission_denied">No tienes permiso de Internet</string>
+    <string name="write_permission_granted">Tienes permiso de Escritura</string>
+    <string name="write_permission_denied">No tienes permiso de Escritura</string>
+    <string name="write_permission_accepted">Has aceptado permiso de Escritura</string>
+    <string name="write_permission_not_accepted">No has aceptado permiso de Escritura</string>
+</resources>
